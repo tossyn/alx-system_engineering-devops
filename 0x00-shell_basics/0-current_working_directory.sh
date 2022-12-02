@@ -1,2 +1,2 @@
-#!/bin/bash\n
-whereami\n
+#!/bin/bash
+whereami
